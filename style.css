@@ -33,13 +33,19 @@ li {
 }
 
 a {
-    background-color: limegreen;
+    background-color: rgb(28, 118, 170);
     color: white;
     padding: 15px;
     text-decoration: none;
     display: block;
     border-radius: 5px;
 }
+
+a:hover {
+    background-color: white;
+    color: rgb(28, 118, 170);
+}
+
 
 footer {
     color: white;
